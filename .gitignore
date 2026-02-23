@@ -1,0 +1,17 @@
+# 依存関係
+node_modules/
+
+# 環境変数（機密情報を含むため必ず除外）
+.env
+.env.local
+
+# Vercel
+.vercel/
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+
+# ログ
+*.log
+npm-debug.log*
