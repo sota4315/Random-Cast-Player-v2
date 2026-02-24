@@ -1,13 +1,13 @@
 {
-  "name": "random-cast-player-v2",
-  "version": "1.0.0",
-  "description": "LINE Bot - オウム返しベース構成（Phase 1）",
-  "private": true,
-  "engines": {
-    "node": ">=18.0.0"
-  },
-  "dependencies": {
-    "@line/bot-sdk": "^9.6.0",
-    "express": "^4.21.0"
-  }
+    "name": "random-cast-player-v2",
+    "version": "1.1.0",
+    "description": "LINE Bot - コマンド分岐対応（Phase 2）",
+    "private": true,
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "dependencies": {
+        "@line/bot-sdk": "^9.6.0",
+        "express": "^4.21.0"
+    }
 }
