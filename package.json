@@ -1,13 +1,14 @@
 {
     "name": "random-cast-player-v2",
-    "version": "1.1.0",
-    "description": "LINE Bot - コマンド分岐対応（Phase 2）",
+    "version": "1.2.0",
+    "description": "LINE Bot - Supabase接続（Phase 3）",
     "private": true,
     "engines": {
         "node": ">=18.0.0"
     },
     "dependencies": {
         "@line/bot-sdk": "^9.6.0",
+        "@supabase/supabase-js": "^2.97.0",
         "express": "^4.21.0"
     }
 }
