@@ -1,7 +1,7 @@
 {
     "name": "random-cast-player-v2",
-    "version": "1.3.0",
-    "description": "LINE Bot - ユーザー登録・セキュリティ強化（Phase 4）",
+    "version": "1.4.0",
+    "description": "LINE Bot - チャンネル登録管理（Phase 5a）",
     "private": true,
     "engines": {
         "node": ">=18.0.0"
@@ -9,6 +9,7 @@
     "dependencies": {
         "@line/bot-sdk": "^9.6.0",
         "@supabase/supabase-js": "^2.97.0",
-        "express": "^4.21.0"
+        "express": "^4.21.0",
+        "rss-parser": "^3.13.0"
     }
 }
